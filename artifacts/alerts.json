@@ -1,0 +1,63 @@
+[
+  {
+    "batch": 5,
+    "alerts": [
+      "Major drift on 'battery_v': PSI=0.558"
+    ]
+  },
+  {
+    "batch": 6,
+    "alerts": [
+      "Major drift on 'battery_v': PSI=3.828",
+      "Accuracy dropped 10.5% vs baseline (0.810 -> 0.705)"
+    ]
+  },
+  {
+    "batch": 7,
+    "alerts": [
+      "Major drift on 'temp_c': PSI=0.347",
+      "Major drift on 'battery_v': PSI=6.455",
+      "Accuracy dropped 18.8% vs baseline (0.810 -> 0.623)"
+    ]
+  },
+  {
+    "batch": 8,
+    "alerts": [
+      "Major drift on 'temp_c': PSI=0.487",
+      "Major drift on 'battery_v': PSI=9.405",
+      "Accuracy dropped 22.0% vs baseline (0.810 -> 0.590)"
+    ]
+  },
+  {
+    "batch": 9,
+    "alerts": [
+      "Major drift on 'temp_c': PSI=0.822",
+      "Major drift on 'battery_v': PSI=11.408",
+      "Accuracy dropped 17.3% vs baseline (0.810 -> 0.637)"
+    ]
+  },
+  {
+    "batch": 10,
+    "alerts": [
+      "Major drift on 'temp_c': PSI=1.204",
+      "Major drift on 'battery_v': PSI=12.434",
+      "Accuracy dropped 11.0% vs baseline (0.810 -> 0.700)"
+    ]
+  },
+  {
+    "batch": 11,
+    "alerts": [
+      "Major drift on 'temp_c': PSI=1.428",
+      "Major drift on 'battery_v': PSI=12.434",
+      "Accuracy dropped 13.5% vs baseline (0.810 -> 0.675)"
+    ]
+  },
+  {
+    "batch": 12,
+    "alerts": [
+      "Major drift on 'temp_c': PSI=2.047",
+      "Major drift on 'battery_v': PSI=12.434",
+      "Accuracy dropped 13.8% vs baseline (0.810 -> 0.672)"
+    ]
+  }
+]
